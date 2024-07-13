@@ -1,6 +1,4 @@
-Certainly! Here's the README content in plain text format:
-
----
+<img src="/readme/cover.png" alt="React Table Component with TanStack" align="center" />
 
 React Table Component with TanStack
 ===================================
