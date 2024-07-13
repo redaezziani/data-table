@@ -1,4 +1,4 @@
-<img src="/readme/cover.png" alt="React Table Component with TanStack" align="center" />
+<img src="./public/readme/cover.png" alt="React Table Component with TanStack" align="center" />
 
 React Table Component with TanStack
 ===================================
@@ -25,7 +25,8 @@ Setup
 -----
 1. Clone the repository:
    ```
-   git clone <repository-url>
+   git clone https://github.com/redaezziani/data-table.git
+   cd data-table
    ```
 
 2. Install dependencies:
@@ -51,11 +52,17 @@ Usage
 3. Integration:
    - Integrate the DataTable component in your application where needed (Home.tsx).
 
-Component Files
----------------
-- DataTable Component: Located in components/table/data-table.tsx.
-- Table Styles: Located in components/table/core.tsx.
-- Custom UI Components: Located in components/ui/.
+4. Styling:
+    - Customize the table styles using Tailwind CSS (core.tsx).
+### Example
+####  Data 
+<img src="./public/readme/code2.png" alt="React Table Component with TanStack" align="center" />
+
+####  Columns
+<img src="./public/readme/code3.png" alt="React Table Component with TanStack" align="center" />
+
+####  DataTable
+<img src="./public/readme/code.png" alt="React Table Component with TanStack" align="center" />
 
 License
 -------
